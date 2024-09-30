@@ -1,0 +1,19 @@
+#canvas {
+    box-shadow: 0 0 5px black;
+    display: flex;
+    margin: 0 auto;
+}
+body {
+    background: linear-gradient(270deg, #31Fa81 0%, #A939FF 100%)
+}
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+    font-size: 22px;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    font-weight: 700;
+    color:white;
+
+}
